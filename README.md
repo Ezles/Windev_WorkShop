@@ -39,4 +39,4 @@ Ce README vous guide à travers les étapes d'installation et de configuration i
    - Nommez votre fenêtre.
 
 ## Conclusion
-Vous avez maintenant configuré avec succès votre environnement de développement WinDev et créé un nouveau projet. Vous pouvez commencer à développer votre application selon vos besoins. Assurez-vous de sauvegarder régulièrement votre travail et de consulter la documentation de WinDev pour des fonctionnalités avancées et des conseils de développement.
+Vous avez maintenant configuré avec succès votre environnement de développement WinDev et créé un nouveau projet. Vous pouvez commencer à développer votre propre application.
