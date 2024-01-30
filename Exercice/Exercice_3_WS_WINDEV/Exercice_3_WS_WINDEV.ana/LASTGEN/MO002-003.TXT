@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Fournisseur		TAR	278	nouvelle taille enregistrement : 278
+Fournisseur		IDE-*		fichier sans identifiant
+Fournisseur	IDFournisseur	CNW	Entier sur 4 octets$Identifiant automatique (8 octets)	la rubrique IDFournisseur a pour nouveau type Entier sur 4 octets
+Fournisseur	IDFournisseurIDClient	RUB+		IDFournisseurIDClient est une nouvelle clé
